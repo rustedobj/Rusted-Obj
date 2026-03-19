@@ -68,7 +68,7 @@ body{
     align-items: center;
     gap: 10px;
 
-    font-family: 'itim', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: radial-gradient(
         ellipse 100% 40% at 50% 70%,
         rgba(180,189,204,0.8) 0%,
